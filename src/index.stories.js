@@ -6,4 +6,8 @@ export default {
   },
 };
 
-export const story1 = () => `<random-shapes></random-shapes>`;
+export const basic = () => `<random-shapes></random-shapes>`;
+
+export const colors = () => `<random-shapes colors="['#000', '#999']"></random-shapes>`;
+
+export const shapesTotal = () => `<random-shapes shapes-total=5></random-shapes>`;
