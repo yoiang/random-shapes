@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/yoiang.random-shapes",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve uSTmR1ct2XUWjFxrUkaF --open"
+  }
+}
